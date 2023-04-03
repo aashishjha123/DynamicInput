@@ -67,3 +67,12 @@
     color: rgb(124, 115, 115);
     border: 1px solid rgb(132, 125, 125);
   }
+
+  .output1 {
+    height: 35px;
+    width: 400%;
+    padding: 7px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid rgb(220, 220, 220);
+  }

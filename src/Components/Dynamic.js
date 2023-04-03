@@ -69,7 +69,7 @@ export default function Dynamic() {
               //   {singleService.service && <li>{singleService.service}</li>}
               // </ul>
 
-              <input key={index} value={singleService.service} type="text"  placeholder={singleService.service} />
+              <input className='output1'  key={index} value={singleService.service} type="text"  placeholder={singleService.service} />
             ))}
         </div>
       </form>
